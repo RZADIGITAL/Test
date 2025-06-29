@@ -1,15 +1,7 @@
-Hello, world!
-I like to play football.
+# Hello, world!
 
 Lev Yashin
-Eduard Streltsov
-Oleg Blokhin
-Fedor Cherenkov
-Viktor Ponedelnik
-Igor Belanov
-Rinat Dasayev
 
+
+I like to play football.
 Russia is great again!!!
-
-
-
